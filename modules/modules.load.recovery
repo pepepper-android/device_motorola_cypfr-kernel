@@ -10,3 +10,4 @@ qpnp_adaptive_charge.ko
 tcpc_class.ko
 tcpc_sgm7220.ko
 rt_pd_manager.ko
+moto_f_usbnet.ko
